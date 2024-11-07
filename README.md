@@ -15,7 +15,10 @@ This is a data analytic visualization platform. As much as it perform other fund
 
 ## This project
 This project deals with two data sets
- - Customer Data: deals with customer behaviour as reguards to subscription
- - Sales Data: deals with the regional performance of the various regions of a retail shop.
+ - **Customer Data:** deals with customer behaviour as reguards to subscription
+ - **Sales Data:** deals with the regional performance of the various regions of a retail shop.
 
 This data sets actually are cleaned, so summary and visualisation is the main aim of this project.
+##
+
+
