@@ -26,7 +26,36 @@ This data sets actually are cleaned, so summary and visualisation is the main ai
 ![2024-11-07 (4)](https://github.com/user-attachments/assets/5e1cfbf2-538d-4cc9-bd96-5f0e6f3d95c7)
 
 From the pivote tables we can deduce that
- - 
+ - the total number of subscribers is 75,00
+ - every region have the equal numbers of subscribers
+ - the standard and premium subscription are at per but well less than the basic subscription
+ - the basic subscription generated the most revenue
+ - premium subscription type has the maximum average revenue
+ - of the 75,000 subscribers, 33,750 canceled their subscription before the end date while 41,250 held on to their subscription until end date
+ - the eastern region subscribers all opted for the basic package and held on it it until the end date
+ - the north region subscribers all opted for the basic package too. While 11,250 out of the 18,750 of them cancelled their subscription before the end date, 7,500 of them held on to the end date
+ - the sourthern region subscribers all opted for the premium package. While 11,250 out of the 18,750 of them cancelled their subscription before the end date, 7,500 of them held on to the end date
+ - the western region subscribers all opted for the standard package. While 11,250 out of the 18,750 of them cancelled their subscription before the end date, 7,500 of them held on to the end date
 
+## Microsoft excel for sales data
+![2024-11-07 (5)](https://github.com/user-attachments/assets/20687717-1f86-42f6-a358-ae10f0e8dacf)
+
+![2024-11-07 (6)](https://github.com/user-attachments/assets/d670e50d-8c90-4bdb-874c-237ca1674785)
+
+From the pivote tables we can deduce that
+ - the total number of customers is 50,000
+ - the total product quantity is 345,000
+ - that of all the 50,000 customers, 7500 of them purchased gloves, same goes for jackets, shirts and also for socks
+ - that of all the 50,000 customers, 7500 of them purchased hats, same goes for shoes
+ - maximun sales was made in the south and the minimum sales was made in the west
+ - jackets are the products most sold and gloves are the projucts least sold
+ - more products were sold in 2023 than was sold in 2024
+ - the month of february is the booming period of the business as it has the highest quantity of products sold.
+
+## Power BI for Customer Data
+![Customer Data Power Bi visualization](https://github.com/user-attachments/assets/958e14ab-7dbe-4ee1-9310-b3193483782a)
+
+From the above visualization dashboard it can be duduced that
+ - 
 
 
