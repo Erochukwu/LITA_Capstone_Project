@@ -19,6 +19,14 @@ This project deals with two data sets
  - **Sales Data:** deals with the regional performance of the various regions of a retail shop.
 
 This data sets actually are cleaned, so summary and visualisation is the main aim of this project.
-##
+
+## Microsoft excel for Customer Data
+![2024-11-07 (3)](https://github.com/user-attachments/assets/01cf3ead-9a16-44c4-95f8-be16376c4d63)
+
+![2024-11-07 (4)](https://github.com/user-attachments/assets/5e1cfbf2-538d-4cc9-bd96-5f0e6f3d95c7)
+
+From the pivote tables we can deduce that
+ - 
+
 
 
