@@ -38,7 +38,7 @@ From the pivote tables we can deduce that
  - the western region subscribers all opted for the standard package. While 11,250 out of the 18,750 of them cancelled their subscription before the end date, 7,500 of them held on to the end date
 
 ## Microsoft excel for sales data
-!,[Excel for sales data (1)](https://github.com/user-attachments/assets/20687717-1f86-42f6-a358-ae10f0e8dacf)
+![Excel for sales data (1)](https://github.com/user-attachments/assets/20687717-1f86-42f6-a358-ae10f0e8dacf)
 
 ![Excel for sales data (2)](https://github.com/user-attachments/assets/d670e50d-8c90-4bdb-874c-237ca1674785)
 
