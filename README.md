@@ -55,7 +55,7 @@ From the pivote tables we can deduce that
 ## Power BI for Customer Data
 ![Customer Data Power Bi visualization](https://github.com/user-attachments/assets/958e14ab-7dbe-4ee1-9310-b3193483782a)
 
-From the above visualisation it could be deduced that
+from the above visualization it can be deduced that
  - 
 
 
